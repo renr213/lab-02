@@ -1,0 +1,55 @@
+---
+title: "Lab 2 - Data wrangling"
+author: "Carol Smith"
+date: "June 24, 1497"
+format: 
+  html: default # for speed
+  pdf: default # for final output
+
+---
+
+
+```{r}
+#| eval: true
+#| message: false
+
+library(tidyverse)
+```
+
+
+# Questions
+
+## Part 1
+
+### Question 1
+
+\newpage
+
+### Question 2
+
+\newpage
+
+### Question 3
+\newpage
+
+### Question 5
+
+\newpage
+
+### Question 6
+
+\newpage
+
+### Question 7
+
+\newpage
+
+### Question 8
+
+\newpage
+
+## Part 2
+
+
+### Question 9
+
